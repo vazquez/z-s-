@@ -10,7 +10,9 @@ Using Gulp to automate the following:
 - Cleaning
 - Building into dist
 
-Commands:
+---
+
+### Commands
 
 `gulp`
 
